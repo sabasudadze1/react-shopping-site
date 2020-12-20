@@ -1,5 +1,6 @@
 //feature 1
 //feature 1
+//feature 2
 import React from 'react';
 import Products from './components/Products';
 import data from "./data.json";
